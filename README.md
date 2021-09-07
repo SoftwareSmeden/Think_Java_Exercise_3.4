@@ -4,7 +4,7 @@
 
 <h2/>Billede 1:<h2/>
 
-![image](https://user-images.githubusercontent.com/89922905/132401823-18dcd17e-96cf-4f3b-aa14-f0924de82820.png)
+![image](https://user-images.githubusercontent.com/89922905/132402298-60e93729-c6df-43d7-8dd4-2fc45e8ce579.png)
 
 **SoftwareSmeden**
 
