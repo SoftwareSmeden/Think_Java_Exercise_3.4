@@ -11,8 +11,7 @@ public class Main {
         Scanner userInput = new Scanner(System.in);
         Random random = new Random();
 
-        //Variables named
-        int pickAINumber;
+        //Variable named
         int pickANumber;
 
         //Program waiting for an input.
