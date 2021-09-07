@@ -15,7 +15,7 @@ public class Main {
         int pickANumber;
 
         //Program waiting for an input.
-        System.out.println("- I'm think of a number between 1-100. \n- Can you guess what it is? \n- Type a number: ");
+        System.out.println("- I'm thinking of a number between 1-100. \n- Can you guess what it is? \n- Type a number: ");
         pickANumber = userInput.nextInt();
 
         //Output generated.
